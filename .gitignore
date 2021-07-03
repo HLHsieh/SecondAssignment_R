@@ -6,6 +6,8 @@
 .local/
 .profile
 
+.cache/
+
 # History files
 .Rhistory
 .Rapp.history
